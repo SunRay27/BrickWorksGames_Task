@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3009f7de3b2bc7448a032a453b34ecf, type: 3}
+  m_Name: BaseSkill
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Base skill
+  <LearnCost>k__BackingField: 0
+  <Sprite>k__BackingField: {fileID: 21300000, guid: 48e1e9d48e6687c46a7a1d82a0095412, type: 3}
+  <ConnectedSkills>k__BackingField:
+  - {fileID: 11400000, guid: 3f3f2cef1e4d38f498e2a18405a7b60c, type: 2}
+  - {fileID: 11400000, guid: f21a978531ac2784b8ba2025797339b4, type: 2}
+  - {fileID: 11400000, guid: 4c321279c9f13534d98e1467c3d0bde9, type: 2}
+  - {fileID: 11400000, guid: e2c091a14c3e17543beab0995cbf559a, type: 2}
+  - {fileID: 11400000, guid: 22b0656aa70279d46804cc890a88bf5f, type: 2}

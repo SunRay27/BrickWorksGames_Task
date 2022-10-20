@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3009f7de3b2bc7448a032a453b34ecf, type: 3}
+  m_Name: Skill 10
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Skill 10
+  <LearnCost>k__BackingField: 2
+  <Sprite>k__BackingField: {fileID: 21300000, guid: a0d1166298229c143a294f5be52f4f99, type: 3}
+  <ConnectedSkills>k__BackingField:
+  - {fileID: 11400000, guid: e2c091a14c3e17543beab0995cbf559a, type: 2}
+  - {fileID: 11400000, guid: 22b0656aa70279d46804cc890a88bf5f, type: 2}
